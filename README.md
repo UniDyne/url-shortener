@@ -15,7 +15,9 @@ highlighting among other things.
 
 ### Installation ###
 The included `database.sql` file can be used to create the required tables in
-in MySQL. Right now, there is only one table.
+in MySQL. Right now, there is only one table. The IDs for the URL table are set
+to start at 100 by default. This reserves the first 99 IDs (the shortest URLs)
+for special use.
 
 The contents of the `short` directory are what needs to be web-addressable. This
 can be placed anywhere on your site.
