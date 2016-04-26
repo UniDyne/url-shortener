@@ -33,12 +33,12 @@
 		<div class="row">
 			<div class="col-md-12">
 				<p>
-				By using nol.ag URL Shortener you agree to our <a href="policy.txt">terms of use</a>.
+				By using this URL Shortener you agree to our <a href="policy.txt">terms of use</a>.
 				</p>
 			</div>
 			<div class="col-md-12">
 				<p>
-				Please send email to <strong>abuse</strong> <em>at</em> <strong>nol</strong> <em>dot</em> <strong>ag</strong>
+				Please send email to <strong>someone</strong> <em>at</em> <strong>thisdomain</strong> <em>dot</em> <strong>com</strong>
 				to report abuse of this service. We take spam seriously and will do our best to respond quickly.
 				</p>
 			</div>
