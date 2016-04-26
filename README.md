@@ -57,7 +57,7 @@ you would essentially be offering free file storage. Don't do that.
 
 ### Inspired By ###
 This project is inspired by the [ur1.ca](http://ur1.ca/) shortener and
-was originally based on the same code. There are some key differences:
+started as a fork of their code. There are some key differences:
 * Uses the newer MySQLi PHP module.
 * Removed original ID generation code.
 * Uses native database IDs and PHP base conversion
